@@ -1,1 +1,26 @@
 /* write your override styles here */
+p {
+    color: blue;
+  }
+  
+  p.special {
+    color: red;
+  }
+ 
+/* Add overrides to css/cleanup.css */
+
+/* Increase the font size for all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.2rem;
+  }
+  
+  /* Change the color of links */
+  a {
+    color: red;
+  }
+  
+  /* Add a background color to the footer */
+  footer {
+    background-color: #eee;
+  }
+    
